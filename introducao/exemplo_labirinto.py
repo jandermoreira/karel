@@ -1,10 +1,10 @@
-'''
+"""
 Karel: pegar beepers ao longo do caminho
 
 ..
     Licença: GNU GENERAL PUBLIC LICENSE V.3, 2007
     Jander Moreira, 2022
-'''
+"""
 
 # Suporte ao Karel
 from stanfordkarel import *
