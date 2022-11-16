@@ -3,7 +3,7 @@ Karel: movimentações do robô
 
 ..
     Licença: GNU GENERAL PUBLIC LICENSE V.3, 2007
-    Jander Moreira, 2021, 2022
+    Jander Moreira, 2022
 '''
 
 # Suporte ao Karel
