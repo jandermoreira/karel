@@ -1,4 +1,4 @@
-'''
+"""
 Karel: exemplificação da estrutura da linguagem
     - Documentação
     - Erros de sintaxe
@@ -10,7 +10,7 @@ Karel: exemplificação da estrutura da linguagem
 ..
     Licença: GNU GENERAL PUBLIC LICENSE V.3, 2007
     Jander Moreira, 2021, 2022
-'''
+"""
 
 # Suporte ao Karel
 from stanfordkarel import *
