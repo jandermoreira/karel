@@ -1,7 +1,7 @@
 """
-    Objetivo: Fazer com que o Karel pegue todos os beepers presentes e
-    retorne exatamente à mesma posição em que estava no início (avenida 1,
-    rua 1, olhando para leste)
+Objetivo: Fazer com que o Karel pegue todos os beepers presentes e
+retorne exatamente à mesma posição em que estava no início (avenida 1,
+rua 1, olhando para leste)
 
 ..
     Licença: GNU GENERAL PUBLIC LICENSE V.3, 2007

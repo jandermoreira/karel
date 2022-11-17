@@ -16,4 +16,4 @@ Beeper: (16, 1); 0
 Beeper: (17, 1); 0
 Beeper: (18, 1); 0
 Karel: (1, 1); east
-BeeperBag: INFINITY
+BeeperBag: 0

@@ -1,6 +1,7 @@
 """
-    Objetivo: mover o Karel até a avenida 1, rua 1 e deixá-lo direcionado
-    para leste (direita)
+Objetivo: mover o Karel até a avenida 1, rua 1 e deixá-lo direcionado
+para leste (direita)
+
 ..
     Licença: GNU GENERAL PUBLIC LICENSE V.3, 2007
     Jander Moreira, 2022

@@ -25,7 +25,6 @@ def main():
     move()
     move()
 
-
 # Iniciação do mundo e execução do programa
 if __name__ == "__main__":
     run_karel_program()

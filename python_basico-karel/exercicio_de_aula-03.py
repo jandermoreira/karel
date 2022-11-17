@@ -1,6 +1,6 @@
 """
-    Objetivo: Fazer com que o Karel pegue todos os beepers presentes e fique
-    na última posição do mundo (avenida 20, rua 1)
+Objetivo: Fazer com que o Karel pegue todos os beepers presentes e fique
+na última posição do mundo (avenida 20, rua 1)
 
 ..
     Licença: GNU GENERAL PUBLIC LICENSE V.3, 2007
