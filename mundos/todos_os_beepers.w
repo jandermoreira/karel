@@ -101,4 +101,4 @@ Beeper: (36, 7); 2
 Beeper: (37, 10); 1
 Beeper: (39, 17); 1
 Karel: (1, 1); east
-BeeperBag: INFINITY
+BeeperBag: 0

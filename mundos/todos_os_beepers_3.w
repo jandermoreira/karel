@@ -45,4 +45,4 @@ Beeper: (10, 1); 0
 Beeper: (10, 2); 0
 Beeper: (10, 10); 0
 Karel: (1, 1); east
-BeeperBag: INFINITY
+BeeperBag: 0
