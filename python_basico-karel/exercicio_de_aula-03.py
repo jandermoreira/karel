@@ -20,6 +20,6 @@ def main():
 if __name__ == "__main__":
     # Commente uma linha e descomente a outra para verificar se seu
     # programa executa nos três mundos
-    run_karel_program("../mundos/beepers_em_linha_1.w")
+    run_karel_program("../mundos/beepers_em_linha_fence.w")
     # run_karel_program("../mundos/beepers_em_linha_2.w")
     # run_karel_program("../mundos/beepers_em_linha_3.w")
